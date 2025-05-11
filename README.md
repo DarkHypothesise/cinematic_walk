@@ -24,3 +24,5 @@ Restart your server
 
 Usage
 /cinewalk
+
+https://streamable.com/gmqqfr
